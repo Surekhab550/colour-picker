@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+.container {
+    margin-top: 20px;
+}
+
+canvas {
+    border: 2px solid #333;
+    cursor: crosshair;
+    max-width: 90%;
+}
+
+#colorBox {
+    width: 120px;
+    height: 120px;
+    margin: 20px auto;
+    border: 2px solid #000;
+    background: white;
+}
+
+.info {
+    font-size: 18px;
+    margin-top: 10px;
+}
